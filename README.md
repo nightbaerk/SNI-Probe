@@ -359,5 +359,4 @@ plt.savefig("latency_distribution.png")
 ---
 
 **Версия**: 2.0 (с параллелизмом и расширенной аналитикой)  
-**Лицензия**: MIT  
-**Автор**: VPN Research Community
+**Автор**: Nightbaerk
